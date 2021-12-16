@@ -1,4 +1,4 @@
-SPring Boot Docker Multi Layer example
+Spring Boot Docker Multi Layer example
 
 Make any changes into the Java code and execute the following commands
 1. "./mvnw clean package"
